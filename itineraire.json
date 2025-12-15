@@ -1,0 +1,184 @@
+{
+  "pays": "Moldavie (Transnistrie)",
+  "drapeau": "🇲🇩",
+  "symbole": "🍇",
+  "titre": "Tiraspol, l'Écho d'une Autre Époque",
+  "budget_total": "680€",
+  "duree": "4 jours",
+  "date_debut": "2025-12-16",
+  "date_fin": "2025-12-19",
+  "temps_vol": "environ 3h de vol direct depuis Paris, puis 1h30 de route",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas à Tiraspol",
+      "legende": "Après un voyage depuis Paris et un transfert vers Tiraspol, vous vous installerez dans cette ville figée dans le temps. La première soirée sera dédiée à une douce immersion, permettant de ressentir l'atmosphère unique de la capitale transnistrienne et de se préparer aux découvertes du lendemain.",
+      "lieu": "Tiraspol",
+      "activites": [
+        "🛬 <strong>Arrivée à Tiraspol</strong>: Après votre vol pour Chisinau, un transfert en marshrutka ou taxi vous mènera à Tiraspol. L'arrivée est une première immersion dans l'ambiance particulière de la région.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Prenez le temps de vous installer dans votre hôtel 3 étoiles. C'est l'occasion de vous reposer et de vous familiariser avec votre environnement immédiat.",
+        "🚶‍♂️ <strong>Balade digestive autour de l'hôtel</strong>: Profitez d'une courte promenade pour découvrir les environs de votre hébergement. Observez l'architecture locale et les premières impressions de la ville."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Formalités d'entrée",
+          "texte": "À l'arrivée en Transnistrie, vous recevrez une carte de migration. Conservez-la précieusement, elle est essentielle pour votre sortie du territoire."
+        },
+        {
+          "symbole": "❄️",
+          "titre": "Météo en Décembre",
+          "texte": "Décembre à Tiraspol est froid, avec des températures souvent négatives et des risques de neige. Prévoyez des vêtements très chauds et imperméables."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Plongée dans l'Héritage Soviétique",
+      "legende": "Cette journée vous transportera au cœur de l'identité transnistrienne, marquée par son héritage soviétique. Entre monuments emblématiques et rues chargées d'histoire, vous explorerez les symboles d'une époque révolue, tout en observant la vie quotidienne de ses habitants.",
+      "lieu": "Tiraspol",
+      "activites": [
+        "🚶‍♀️ <strong>Découverte de la Place Suvorov</strong>: Cœur de Tiraspol, cette place est dominée par la statue équestre du Général Suvorov et le bâtiment du Soviet Suprême, un exemple frappant d'architecture soviétique.",
+        "🏛️ <strong>Visite du Musée National de Transnistrie</strong>: Explorez l'histoire complexe de la région, de l'Antiquité à la période soviétique et au conflit de 1992. Les expositions offrent un aperçu unique de l'identité transnistrienne.",
+        "🌳 <strong>Promenade le long du Dniestr</strong>: Flânez sur les rives du fleuve Dniestr, qui traverse la ville. C'est un lieu paisible pour observer la nature et les ponts historiques."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🇷🇺",
+          "titre": "Langue et Monnaie",
+          "texte": "Le russe est la langue principale. La monnaie locale est le rouble transnistrien (PRB), non convertible en dehors de la Transnistrie. Prévoyez des euros ou des dollars pour l'échange."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Conseil Photo",
+          "texte": "Soyez discret en photographiant les bâtiments officiels ou les installations militaires. Demandez toujours la permission si vous souhaitez photographier des personnes."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🛍️",
+      "titre": "Saveurs Locales et Artisanat",
+      "legende": "Aujourd'hui, vous vous immergerez dans la vie locale de Tiraspol, en explorant ses marchés animés et en découvrant ses produits emblématiques. Une occasion unique de goûter aux saveurs régionales et de rapporter des souvenirs authentiques de cette destination hors du commun.",
+      "lieu": "Tiraspol",
+      "activites": [
+        "🥕 <strong>Exploration du Marché Vert (Zelyony Rynok)</strong>: Ce marché coloré est le lieu idéal pour découvrir les produits locaux, des fruits et légumes frais aux spécialités régionales. C'est une immersion authentique dans la vie quotidienne des habitants.",
+        "🥃 <strong>Visite de la distillerie KVINT</strong>: Découvrez l'une des plus anciennes et célèbres distilleries de la région, réputée pour ses cognacs et brandies. Une dégustation est souvent proposée pour apprécier la qualité de leurs produits.",
+        "🚶‍♀️ <strong>Découverte du Parc de la Victoire</strong>: Ce grand parc offre un espace de détente avec des monuments commémoratifs et des allées paisibles. C'est un lieu de promenade apprécié des familles locales."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "💰",
+          "titre": "Paiements",
+          "texte": "Les cartes bancaires internationales sont rarement acceptées. Prévoyez suffisamment de roubles transnistriens en espèces pour vos achats et activités."
+        },
+        {
+          "symbole": "🚌",
+          "titre": "Transports locaux",
+          "texte": "Les marshrutkas (minibus partagés) sont le moyen de transport le plus courant et économique. Les taxis sont également disponibles et abordables."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers Regards et Départ",
+      "legende": "Avant de quitter Tiraspol, profitez d'une dernière matinée pour quelques emplettes ou une ultime balade. Ce sera l'occasion de graver les derniers souvenirs de cette expérience unique, avant de reprendre la route vers Chisinau pour votre vol de retour vers Paris.",
+      "lieu": "Tiraspol / Chisinau",
+      "activites": [
+        "🎁 <strong>Achats de souvenirs locaux</strong>: Profitez de la matinée pour trouver des souvenirs uniques, comme des produits de la distillerie KVINT, des timbres transnistriens ou de l'artisanat local.",
+        "🚶‍♂️ <strong>Dernière balade et déjeuner</strong>: Faites une dernière promenade dans un quartier que vous avez apprécié ou découvrez un nouveau coin. Savourez un dernier repas typique avant de partir.",
+        "🛫 <strong>Transfert vers Chisinau et départ</strong>: Reprenez le chemin vers l'aéroport de Chisinau pour votre vol de retour. Gardez en tête les images et les sensations de ce voyage hors du commun."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Temps de trajet",
+          "texte": "Prévoyez au moins 2 heures pour le trajet Tiraspol-Chisinau, sans compter le temps d'attente pour la marshrutka ou le taxi."
+        },
+        {
+          "symbole": "🛂",
+          "titre": "Contrôle frontalier",
+          "texte": "Assurez-vous d'avoir votre carte de migration et votre passeport prêts pour le contrôle à la sortie de Transnistrie."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "300€/pers (Vol A/R Paris-Chisinau en classe économique)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "50€/pers (Transferts Chisinau-Tiraspol A/R et transports locaux)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "150€/pers (4 jours, repas variés dans des restaurants locaux)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "150€/pers (3 nuits en hôtel 3 étoiles)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "30€/pers (Musées, distillerie KVINT, etc.)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de mai à septembre pour un climat plus doux, ou décembre pour une ambiance hivernale unique.",
+      "symbole": "🍁"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La Transnistrie est un État autoproclamé non reconnu internationalement, considéré comme faisant partie de la Moldavie. Sa population est un mélange d'ethnies russes, ukrainiennes et moldaves.",
+      "symbole": "ℹ️"
+    },
+    {
+      "titre": "Tiraspol est la capitale de la Transnistrie, une région qui a conservé de nombreux symboles de l'ère soviétique, offrant une expérience de voyage unique et un véritable \"voyage dans le temps\".",
+      "symbole": "🕰️"
+    },
+    {
+      "titre": "La Transnistrie possède sa propre monnaie, le rouble transnistrien, et ses propres frontières. Le passage de la frontière moldave vers la Transnistrie est généralement simple mais nécessite de conserver la carte de migration.",
+      "symbole": "🛂"
+    },
+    {
+      "titre": "Le coût de la vie est généralement bas en Transnistrie, ce qui rend les repas et les transports très abordables. Les hôtels 3 étoiles offrent un bon rapport qualité-prix.",
+      "symbole": "💲"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations générales sur la Moldavie",
+      "titre": "Moldova Travel",
+      "url": "https://moldova.travel/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Prévisions météo pour Tiraspol",
+      "titre": "AccuWeather Tiraspol",
+      "url": "https://www.accuweather.com/fr/md/tiraspol/285511/weather-forecast/285511",
+      "symbole": "🌤️"
+    },
+    {
+      "legende": "Horaires des bus en Moldavie (inclut Chisinau)",
+      "titre": "Autogara.md",
+      "url": "https://autogara.md/",
+      "symbole": "🚌"
+    }
+  ]
+}
